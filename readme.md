@@ -8,6 +8,8 @@ sdk_version: "1.35.0"
 python_version: "3.11"
 app_file: app.py
 pinned: false
+preload_from_hub:
+  - j-hartmann/emotion-english-distilroberta-base
 ---
 # 🎭 Emotion & Sentiment Analyzer
 
