@@ -5,10 +5,10 @@ colorFrom: blue
 colorTo: purple
 sdk: streamlit
 sdk_version: "1.35.0"
+python_version: "3.11"
 app_file: app.py
 pinned: false
 ---
-
 # 🎭 Emotion & Sentiment Analyzer
 
 A web app that detects **7 emotions** (anger, disgust, fear, joy, neutral, sadness, surprise) from text using a pre-trained Hugging Face transformer model.
